@@ -1,2 +1,2 @@
-# codigo-
-codigo de interfaz
+# codigo
+buenas noches, dias o tardes pues este es un proyecto que se hizo por alumnos de ISC donde se puso en practica todo lo aprendido durante el paso de los semestres, bueno explico un poc pues este se utilizaron diseños, botones, tipos de letras, colores, y lo mas importante su programacion y su base de datos pues en esta caso pos ya es casi la hora de subirlo y no esta completo del todo el proyecto, bueno en mi caso anduve intentando conectarlo a la base de datos y si lo pude conectar pero despues de andar checandolo le movi algo y no se registraba en la base de datos y pues esta es mi primera vez usando la plataforma github y no se si voy en el camino correcto y ya pues seria todo de mi parte (profa si ve esto y no es como era una disculpa es la primera vez usando la plataforma).
